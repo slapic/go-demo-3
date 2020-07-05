@@ -1,6 +1,6 @@
 name: go-demo-3
 version: 0.0.1
-apiVersion: v1
+apiVersion: v2
 description: A silly demo based on API written in Go and MongoDB
 keywords:
 - api
@@ -8,7 +8,7 @@ keywords:
 - go
 - database
 - mongodb
-home: http://www.devopstoolkitseries.com/
+home: https://devopsakademia.com/
 sources:
 - https://github.com/vfarcic/go-demo-3
 maintainers:
